@@ -15,6 +15,11 @@ body .btn-primary {
 	background-color: #1d5247;
 }
 
+#wb-info .landscape {
+	background-image: none;
+	background-color: #338171;
+}
+
 @media screen and (max-width: 767px) {
 
 	.app-list-main .btn, .app-list-main .btn:visited {
